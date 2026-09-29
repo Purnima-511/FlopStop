@@ -1,0 +1,6 @@
+hindsight-client
+groq
+python-dotenv
+streamlit
+pandas
+pytrends

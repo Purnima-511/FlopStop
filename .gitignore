@@ -1,0 +1,14 @@
+# Never upload your real secrets
+.env
+
+# Python junk
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local seeding marker + generated cache (safe to keep trend_cache.json if you want a demo copy)
+data/.seeded
+
+# OS junk
+.DS_Store
